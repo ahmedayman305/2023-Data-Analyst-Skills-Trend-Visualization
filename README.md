@@ -394,9 +394,9 @@ plt.show()
 ### Insights from the Box Plot for Salary Distribution by Job Title
 
 1. **Salary Differences in High-Demand Roles**  
-   The box plot shows that roles like **Data Scientist** and **Software Engineer** have big salary differences, meaning pay can vary a lot depending on factors like experience, location, and company. Some people in these roles earn very high salaries, while others earn lower ones.
+   The box plot shows that roles like **Data Scientist** have big salary differences, meaning pay can vary a lot depending on factors like experience, location, and company. Some people in these roles earn very high salaries, while others earn lower ones.
 
-2. **Median Salary Trends**  
+1. **Median Salary Trends**  
    **Data Scientist** has the highest median salary, followed by **Software Engineer** and **Product Manager**. This shows these jobs are in high demand and pay well. On the other hand, roles like **Marketing Analyst** have lower median salaries, which may reflect less demand or fewer specialized skills.
 
 ### Insights from the Chart: Top 10 Highest Paying and Most Common Skills for Data Analysts in the United States
